@@ -64,26 +64,9 @@
 
 <br />
 
-<div align="center">
-  <p align="center"><strong>Frontend & UI</strong></p>
-  <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,typescript,nextjs,html,css" alt="Frontend Technologies" /></a>
-  </p>
-  
-  <br />
-  
-  <p align="center"><strong>Backend & Database</strong></p>
-  <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongodb" alt="Backend Technologies" /></a>
-  </p>
-  
-  <br />
-  
-  <p align="center"><strong>Tools & Platforms</strong></p>
-  <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,azure,vscode" alt="Tools & Platforms" /></a>
-  </p>
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,java,c,cpp,fastapi,nginx,redis,rabbitmq,angular,sklearn,pandas,numpy,matplotlib,seaborn,jupyter,postgresql,mysql,docker,kubernetes,githubactions,jenkins,prometheus,grafana,pytest,sonarqube,firebase,git,vscode" alt="All Technologies" /></a>
+</p>
 
 <br />
 <br />
