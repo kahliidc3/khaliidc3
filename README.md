@@ -86,7 +86,14 @@ I'm Khalid Chalhi, a passionate software engineer with experience in full-stack 
 ## 📈 GitHub Stats
 
 ![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahliidc3&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kahliidc3&theme=radical)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahliidc3&layout=compact)
+
+---
+
+## 📝 Latest Blog Posts
+<!-- posts:start -->
+<!-- posts:end -->
 
 ---
 
