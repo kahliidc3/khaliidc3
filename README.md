@@ -17,27 +17,75 @@
 
 ## 🧑‍💻 About Me
 
-- 👋 Hi, I'm Khalid Chalhi
-- 💻 Computer Science and Engineering Student | Aspiring Data Scientist
-- 🌍 Based in Morocco
-- 🛠️ Passionate about full-stack development, automation, and AI
-- 🌱 Currently learning: Advanced DevOps, AI Agents, Cloud
-- 📫 Reach me: [khalid.chelhi@outlook.fr](mailto:khalid.chelhi@outlook.fr) | [LinkedIn](https://www.linkedin.com/in/khalid-chalhi/)
-- ⚡ Fun fact: I love hackathons and tech meetups!
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>👋 <b>Hi, I'm Khalid Chalhi</b></li>
+        <li>💻 Computer Science and Engineering Student | Aspiring Data Scientist</li>
+        <li>🌍 Based in Morocco</li>
+        <li>🛠️ Passionate about full-stack development, automation, and AI</li>
+        <li>🌱 Currently learning: Advanced DevOps, AI Agents, Cloud</li>
+        <li>📫 <a href="mailto:khalid.chelhi@outlook.fr">khalid.chelhi@outlook.fr</a> | <a href="https://www.linkedin.com/in/khalid-chalhi/">LinkedIn</a></li>
+        <li>⚡ Fun fact: I love hackathons and tech meetups!</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Project Highlights
 
-- **[Shipping-and-Billing-Information-JS](https://github.com/kahliidc3/Shipping-and-Billing-Information-JS):** Modern, responsive web form for shipping and billing with real-time validation
-- **[Movie-recommendation-app](https://github.com/kahliidc3/Movie-recommendation-app):** Personalized movie/TV recommendation system (Angular & Spring Boot)
-- **[Hotel-management-system](https://github.com/kahliidc3/Hotel-management-system):** Full-stack hotel management app (Spring Boot, Angular, MySQL, Zorro)
-- **[E-para](https://github.com/kahliidc3/E-para):** E-commerce platform for pharmacy/healthcare (Django backend)
-- **[Eduverse](https://github.com/kahliidc3/Eduverse):** E-learning platform with gamification (Django)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kahliidc3/Shipping-and-Billing-Information-JS">
+        <b>Shipping-and-Billing-Information-JS</b>
+      </a><br>
+      <sub>Modern, responsive web form for shipping and billing with real-time validation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kahliidc3/Movie-recommendation-app">
+        <b>Movie-recommendation-app</b>
+      </a><br>
+      <sub>Personalized movie/TV recommendation system (Angular & Spring Boot)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kahliidc3/Hotel-management-system">
+        <b>Hotel-management-system</b>
+      </a><br>
+      <sub>Full-stack hotel management app (Spring Boot, Angular, MySQL, Zorro)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kahliidc3/E-para">
+        <b>E-para</b>
+      </a><br>
+      <sub>E-commerce platform for pharmacy/healthcare (Django backend)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kahliidc3/Eduverse">
+        <b>Eduverse</b>
+      </a><br>
+      <sub>E-learning platform with gamification (Django)</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Tools
+## ��️ Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
