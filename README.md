@@ -17,7 +17,7 @@
 
 > ## 🧑‍💻 About Me
 
-<img align="right" src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%;margin-left:20px;"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/134404057?v=4" width="120" style="border-radius:50%;margin-left:20px;"/>
 
 - 👋 Hi, I'm **Khalid Chalhi**
 - 💻 Computer Science and Engineering Student | Aspiring Data Scientist
