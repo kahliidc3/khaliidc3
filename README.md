@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Khalid%20Chalhi!&fontSize=35&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <b>Computer Science and Engineering Student | Aspiring Data Scientist | Process Automation Engineer</b>
+</p>
+
 <!-- Social Icons Row -->
 <p align="center">
   <a href="https://www.linkedin.com/in/khalid-chalhi/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
@@ -23,6 +27,47 @@ email: khalid.chelhi@outlook.fr
 linkedin: khalid-chalhi
 fun_fact: "I love hackathons and tech meetups!"
 ```
+
+---
+
+## 💼 Experience
+
+- **Process Automation Engineer** (Intern) @ TE Connectivity  
+  _Mar 2025 – Present_  
+  Skills: FastAPI, WebSockets, Automation
+
+- **Mobile Application Developer** (Part-time) @ Taliware™  
+  _Jun 2024 – Feb 2025_  
+  Skills: Flutter, Mobile App Development
+
+- **Data Scientist** (Intern) @ MIView Consulting  
+  _Jul 2024 – Sep 2024_  
+  Skills: Machine Learning, Data Science
+
+- **Full-stack Developer** (Intern) @ Wolkat  
+  _Jul 2023 – Aug 2023_  
+  Skills: ERP, IT Management
+
+---
+
+## 🎓 Education
+
+- **Ecole Marocaine des Sciences de l'Ingénieur**  
+  Master's degree, Computer Science Applied to Business Administration
+
+---
+
+## 📜 Licenses & Certifications
+
+- **Building Scalable Java Microservices with Spring Boot and Spring Cloud** — Google (Jan 2025)
+- **Introduction to Containers w/ Docker, Kubernetes & OpenShift** — IBM (Jan 2025)
+- **Introduction to Git and GitHub** — Google (Jan 2025)
+- **Machine Learning with Python (V2)** — IBM (Jan 2025)
+- **React Native** — Meta (May 2024)
+- **Introduction to Java and Object-Oriented Programming** — University of Pennsylvania (Jan 2024)
+- **React Basics** — Meta (Jan 2024)
+- **Software Engineering: Modeling Software Systems using UML** — HKUST (May 2023)
+- **IELTS b2**
 
 ---
 
