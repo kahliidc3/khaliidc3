@@ -79,12 +79,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- posts:start -->
-<!-- posts:end -->
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/kahliidc3/kahliidc3/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
