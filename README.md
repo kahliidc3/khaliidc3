@@ -17,9 +17,13 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Khalid Chalhi** — a Computer Science & Engineering student from Morocco, passionate about full-stack development, automation, and AI. I love hackathons, tech meetups, and building impactful projects. Currently, I'm diving deeper into Advanced DevOps, AI Agents, and Cloud technologies.
-
-📫 Reach me: [khalid.chelhi@outlook.fr](mailto:khalid.chelhi@outlook.fr) | [LinkedIn](https://www.linkedin.com/in/khalid-chalhi/)
+- 👋 Hi, I'm Khalid Chalhi
+- 💻 Computer Science and Engineering Student | Aspiring Data Scientist
+- 🌍 Based in Morocco
+- 🛠️ Passionate about full-stack development, automation, and AI
+- 🌱 Currently learning: Advanced DevOps, AI Agents, Cloud
+- 📫 Reach me: [khalid.chelhi@outlook.fr](mailto:khalid.chelhi@outlook.fr) | [LinkedIn](https://www.linkedin.com/in/khalid-chalhi/)
+- ⚡ Fun fact: I love hackathons and tech meetups!
 
 ---
 
