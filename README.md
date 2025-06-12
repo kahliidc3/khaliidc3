@@ -47,24 +47,37 @@
   _E-learning platform with gamification (Django)_
 
 ---
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="24px" height="24px" alt="Tech Stack Icon">
+  &nbsp;Tech Stack
+</h2>
 
-## ️ Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40"/>
-</p>
+<br />
+
+<div align="center">
+  <p align="center"><strong>Frontend & UI</strong></p>
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,typescript,nextjs,html,css" alt="Frontend Technologies" /></a>
+  </p>
+  
+  <br />
+  
+  <p align="center"><strong>Backend & Database</strong></p>
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongodb" alt="Backend Technologies" /></a>
+  </p>
+  
+  <br />
+  
+  <p align="center"><strong>Tools & Platforms</strong></p>
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,azure,vscode" alt="Tools & Platforms" /></a>
+  </p>
+</div>
+
+<br />
+<br />
 
 ---
 
@@ -85,10 +98,3 @@
 </p>
 
 ---
-
-> "You can't use up creativity. The more you use, the more you have."  
-> — Dr. Maya Angelou
-
-<!--
-**kahliidc3/kahliidc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
