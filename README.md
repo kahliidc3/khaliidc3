@@ -17,23 +17,19 @@
 
 ## 🧑‍💻 About Me
 
-- 👋 Hi, I'm Khalid Chalhi
-- 💻 Computer Science and Engineering Student | Aspiring Data Scientist
-- 🌍 Based in Morocco
-- 🛠️ Passionate about full-stack development, automation, and AI
-- 🌱 Currently learning: Advanced DevOps, AI Agents, Cloud
-- 📫 Reach me: [khalid.chelhi@outlook.fr](mailto:khalid.chelhi@outlook.fr) | [LinkedIn](https://www.linkedin.com/in/khalid-chalhi/)
-- ⚡ Fun fact: I love hackathons and tech meetups!
+Hi! I'm **Khalid Chalhi** — a Computer Science & Engineering student from Morocco, passionate about full-stack development, automation, and AI. I love hackathons, tech meetups, and building impactful projects. Currently, I'm diving deeper into Advanced DevOps, AI Agents, and Cloud technologies.
+
+📫 Reach me: [khalid.chelhi@outlook.fr](mailto:khalid.chelhi@outlook.fr) | [LinkedIn](https://www.linkedin.com/in/khalid-chalhi/)
 
 ---
 
 ## 🚀 Project Highlights
 
-- [Shipping-and-Billing-Information-JS](https://github.com/kahliidc3/Shipping-and-Billing-Information-JS): Modern, responsive web form for shipping and billing with real-time validation.
-- [Movie-recommendation-app](https://github.com/kahliidc3/Movie-recommendation-app): Personalized movie/TV recommendation system using Angular & Spring Boot.
-- [Hotel-management-system](https://github.com/kahliidc3/Hotel-management-system): Full-stack hotel management app (Spring Boot, Angular, MySQL, Zorro).
-- [E-para](https://github.com/kahliidc3/E-para): E-commerce platform for pharmacy/healthcare (Django backend).
-- [Eduverse](https://github.com/kahliidc3/Eduverse): E-learning platform with gamification (Django).
+- **[Shipping-and-Billing-Information-JS](https://github.com/kahliidc3/Shipping-and-Billing-Information-JS):** Modern, responsive web form for shipping and billing with real-time validation
+- **[Movie-recommendation-app](https://github.com/kahliidc3/Movie-recommendation-app):** Personalized movie/TV recommendation system (Angular & Spring Boot)
+- **[Hotel-management-system](https://github.com/kahliidc3/Hotel-management-system):** Full-stack hotel management app (Spring Boot, Angular, MySQL, Zorro)
+- **[E-para](https://github.com/kahliidc3/E-para):** E-commerce platform for pharmacy/healthcare (Django backend)
+- **[Eduverse](https://github.com/kahliidc3/Eduverse):** E-learning platform with gamification (Django)
 
 ---
 
@@ -59,9 +55,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kahliidc3&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=kahliidc3&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahliidc3&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kahliidc3&show_icons=true&theme=radical" width="350"/>
+  <img src="https://streak-stats.demolab.com?user=kahliidc3&theme=radical" width="350"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahliidc3&layout=compact" width="350"/>
 </p>
 
 ---
@@ -72,7 +70,10 @@
 
 ---
 
-
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/kahliidc3/kahliidc3/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
 
 ---
 
