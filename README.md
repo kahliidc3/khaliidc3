@@ -1,23 +1,28 @@
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120"/>
-  <h1>Hi, I'm Khalid Chalhi 👋</h1>
-  <p>Welcome to my GitHub profile!</p>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
-</div>
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Khalid%20Chalhi!&fontSize=35&animation=fadeIn" />
+</p>
+
+<!-- Social Icons Row -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/khalid-chalhi/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
+  <a href="mailto:khalid.chelhi@outlook.fr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /></a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm Khalid Chalhi, a passionate software engineer with experience in full-stack development, machine learning, and DevOps. I enjoy building scalable web applications, automating processes, and exploring new technologies. I love collaborating on impactful projects and sharing knowledge with the community.
-
-- 🌱 I'm currently learning: Advanced DevOps, AI Agents, and scalable cloud architectures
-- 💼 Open to collaborating on: Full-stack apps, ML projects, and automation tools
-- 🗣️ Ask me about: FastAPI, Angular, Docker, CI/CD, ML, and more
-- 📫 Reach me: [khalid.chelhi@outlook.fr](mailto:khalid.chelhi@outlook.fr)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hackathons and tech meetups!
+```yaml
+name: Khalid Chalhi
+pronouns: he/him
+location: Morocco
+current: Software Engineer | Full Stack Developer
+learning: Advanced DevOps, AI Agents, Cloud
+email: khalid.chelhi@outlook.fr
+linkedin: khalid-chalhi
+fun_fact: "I love hackathons and tech meetups!"
+```
 
 ---
 
@@ -31,63 +36,32 @@ I'm Khalid Chalhi, a passionate software engineer with experience in full-stack 
 
 ---
 
-## 🧠 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-## 🛠️ Frameworks, Libraries, Tools & Technologies
-
-### 🔙 Backend
-- FastAPI, SQLAlchemy, Alembic, Celery, RabbitMQ, Redis
-- Gunicorn, Uvicorn, Nginx
-- OAuth2, JWT, Bcrypt, Passlib
-
-### 🔛 Frontend
-- Angular 19, PrimeNG, Tailwind CSS
-- Axios, Fetch API
-
-### 🧠 Machine Learning & Data Science
-- Scikit-learn, Pandas, NumPy
-- Matplotlib, Seaborn
-- NLTK, TextBlob, VADER
-- Jupyter Notebooks
-
-### 📦 Databases
-- PostgreSQL, MySQL 8+
-
-### 🚀 DevOps & Deployment
-- Docker, Kubernetes
-- GitHub Actions, Jenkins
-- Prometheus, Grafana, Sentry
-
-### ✅ Testing
-- PyTest, Unittest, SonarQube
-
-### 📧 Integrations & Messaging
-- Amazon SES, smtplib
-- Firebase Cloud Messaging (FCM)
-- WebSockets
-
-### 🤖 AI/Automation
-- AI Agents, Process automation tools
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
-
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahliidc3&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kahliidc3&theme=radical)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahliidc3&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kahliidc3&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=kahliidc3&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahliidc3&layout=compact" />
+</p>
 
 ---
 
@@ -97,17 +71,15 @@ I'm Khalid Chalhi, a passionate software engineer with experience in full-stack 
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalid-chalhi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khalid.chelhi@outlook.fr)
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/kahliidc3/kahliidc3/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
 
 ---
 
 > "You can't use up creativity. The more you use, the more you have."  
 > — Dr. Maya Angelou
-
----
 
 <!--
 **kahliidc3/kahliidc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
