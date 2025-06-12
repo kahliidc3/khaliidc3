@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Khalid%20Chalhi!&fontSize=35&animation=fadeIn" />
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kahliidc3&color=blue" alt="Profile views"/>
+</p>
+
 <p align="center">
   <b>Computer Science and Engineering Student | Aspiring Data Scientist | Process Automation Engineer</b>
 </p>
@@ -19,13 +24,17 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/134404057?v=4" width="120" style="border-radius:50%;margin-left:20px;"/>
 
-- 👋 Hi, I'm **Khalid Chalhi**
-- 💻 Computer Science and Engineering Student | Aspiring Data Scientist
-- 🌍 Based in Morocco
-- 🛠️ Passionate about full-stack development, automation, and AI
-- 🌱 Currently learning: Advanced DevOps, AI Agents, Cloud
-- 📫 [khalid.chelhi@outlook.fr](mailto:khalid.chelhi@outlook.fr) | [LinkedIn](https://www.linkedin.com/in/khalid-chalhi/)
+```yaml
+- 👋 Hi, I'm: Khalid Chalhi
+- 💻 Role: Computer Science and Engineering Student | Aspiring Data Scientist
+- 🌍 Location: Morocco
+- 🛠️ Interests: Full-stack development, automation, AI
+- 🌱 Learning: Advanced DevOps, AI Agents, Cloud
+- 📫 Contact:
+  - Email: khalid.chelhi@outlook.fr
+  - LinkedIn: https://www.linkedin.com/in/khalid-chalhi/
 - ⚡ Fun fact: I love hackathons and tech meetups!
+```
 
 ---
 
