@@ -64,8 +64,39 @@
 
 <br />
 
+<p align="center"><strong>🧠 Programming Languages</strong></p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,java,c,cpp,fastapi,nginx,redis,rabbitmq,angular,sklearn,pandas,numpy,matplotlib,seaborn,jupyter,postgresql,mysql,docker,kubernetes,githubactions,jenkins,prometheus,grafana,pytest,sonarqube,firebase,git,vscode" alt="All Technologies" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,tailwind,java,c,cpp" alt="Programming Languages" /></a>
+</p>
+
+<p align="center"><strong>🔙 Backend & Databases</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,nginx,redis,rabbitmq,postgresql,mysql" alt="Backend & Databases" /></a>
+</p>
+
+<p align="center"><strong>🔛 Frontend</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=angular" alt="Frontend" /></a>
+</p>
+
+<p align="center"><strong>🧠 Machine Learning & Data Science</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn,jupyter" alt="Machine Learning & Data Science" /></a>
+</p>
+
+<p align="center"><strong>🚀 DevOps & Deployment</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,prometheus,grafana" alt="DevOps & Deployment" /></a>
+</p>
+
+<p align="center"><strong>✅ Testing & Quality</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytest,sonarqube" alt="Testing & Quality" /></a>
+</p>
+
+<p align="center"><strong>🛠️ Tools & Integrations</strong></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,vscode,firebase" alt="Tools & Integrations" /></a>
 </p>
 
 <br />
